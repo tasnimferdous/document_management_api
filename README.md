@@ -17,14 +17,14 @@
 
 ## The endpoints are -
 
--> [POST]       api/sign-up/
--> [POST]       api/sign-in/
--> [GET]        api/document/
--> [POST]       api/document/
--> [GET]        api/document/<int:pk>/
--> [PUT]        api/document/<int:pk>/
--> [DELETE]     api/document/<int:pk>/
--> [Swagger]    api/schema/swagger-ui/
+-> [POST]       api/sign-up/<br>
+-> [POST]       api/sign-in/<br>
+-> [GET]        api/document/<br>
+-> [POST]       api/document/<br>
+-> [GET]        api/document//<int:pk/>/<br>
+-> [PUT]        api/document/<int:pk>/<br>
+-> [DELETE]     api/document/<int:pk>/<br>
+-> [Swagger]    api/schema/swagger-ui/<br>
 
 
 ## To run this project locally -
