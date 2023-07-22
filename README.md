@@ -21,7 +21,7 @@
 -> [POST]       api/sign-in/<br>
 -> [GET]        api/document/<br>
 -> [POST]       api/document/<br>
--> [GET]        api/document//<int:pk/>/<br>
+-> [GET]        api/document/<int:pk>/<br>
 -> [PUT]        api/document/<int:pk>/<br>
 -> [DELETE]     api/document/<int:pk>/<br>
 -> [Swagger]    api/schema/swagger-ui/<br>
